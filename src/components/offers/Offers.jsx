@@ -1,7 +1,7 @@
-import offer1 from "/f1.svg";
-import offer2 from "/f2.svg";
-import offer3 from "/f3.svg";
-import offer4 from "/f4.svg";
+import offer1 from "../../assets/f1.svg";
+import offer2 from "../../assets/f2.svg";
+import offer3 from "../../assets/f3.svg";
+import offer4 from "../../assets/f4.svg";
 
 const offers = [
   {

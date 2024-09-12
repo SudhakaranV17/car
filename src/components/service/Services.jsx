@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import electricCar from "/electric-car.svg";
-import electricCar2 from "/electric-car2.svg";
+import electricCar from "../../assets/electric-car.svg";
+import electricCar2 from "../../assets/electric-car2.svg";
 const services = [
   {
     title: "Are you Looking for a Car ?",
