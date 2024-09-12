@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import demoPic from "/demo.jpg";
+import demoPic from "../../assets/demo.jpg";
 function Demo() {
   return (
     <div className="container mx-auto py-14 md:py-28">
