@@ -19,7 +19,7 @@
     "fuel": "petrol",
     "transmission": "CVT",
     "link": "",
-    "img": "/assets/car-2.jpg"
+    "img": "./car-2.jpg"
   },
   {
     "id": 3,
