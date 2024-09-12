@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry New",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 40000,
+    "miles": 20,
+    "fuel": "petrol",
+    "transmission": "Automatic",
+    "link": "",
+    "img": "public/car-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "T- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 15000,
+    "miles": 15,
+    "fuel": "petrol",
+    "transmission": "CVT",
+    "link": "",
+    "img": "public/car-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "C- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 150000,
+    "miles": 50,
+    "fuel": "petrol",
+    "transmission": "Automatic",
+    "link": "",
+    "img": "public/car-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ford Transit - 2021",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 22000,
+    "miles": 2500,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "link": "",
+    "img": "public/car-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "T- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 15000,
+    "miles": 15,
+    "fuel": "petrol",
+    "transmission": "CVT",
+    "link": "",
+    "img": "public/car-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "C- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 150000,
+    "miles": 50,
+    "fuel": "petrol",
+    "transmission": "Automatic",
+    "link": "",
+    "img": "public/car-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "T- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 15000,
+    "miles": 15,
+    "fuel": "petrol",
+    "transmission": "CVT",
+    "link": "",
+    "img": "public/car-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "C- Cross - 2023",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum vitae, error veniam autem earum consectetur officia, voluptatum maxime sunt velit.",
+    "price": 150000,
+    "miles": 50,
+    "fuel": "petrol",
+    "transmission": "Automatic",
+    "link": "",
+    "img": "public/car-8.jpg"
+  }
+]
