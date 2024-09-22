@@ -31,8 +31,10 @@ export const { getDetailsStart, getDetailsSuccess, getDetailsFailure } =
 export const fetchDetails = () => async (dispatch) => {
   dispatch(getDetailsStart());
   try {
-    const response = await axios.get("../assets/data.json");
+    const response = await axios.get("/src/assets/data.json");
     // Note the path here
+    console.log(response.data);
+
     dispatch(getDetailsSuccess(response.data));
   } catch (error) {
     dispatch(getDetailsFailure(error.message));
