@@ -32,8 +32,9 @@ export const fetchDetails = () => async (dispatch) => {
   dispatch(getDetailsStart());
   try {
     const response = await axios.get("../assets/data.json");
+
     // Note the path here
-    console.log(response.data);
+    console.log(axios.get("../assets/data.json"));
 
     dispatch(getDetailsSuccess(response.data));
   } catch (error) {
