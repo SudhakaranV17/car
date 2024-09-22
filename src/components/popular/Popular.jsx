@@ -66,7 +66,7 @@ function Popular() {
             </SwiperSlide>
           );
         })}
-        <div className="mt-12 flex gap-6">
+        <div className="mt-6 md:mt-12 flex gap-6">
           <Button
             variant="secondary"
             className="group"

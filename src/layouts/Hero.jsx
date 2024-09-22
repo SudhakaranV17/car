@@ -8,13 +8,13 @@ function Hero() {
       </div>
       <div className="container w-full h-full relative z-10 flex flex-col justify-center">
         <div className="text-white">
-          <p className="text-base  font-thin pb-8">
+          <p className="text-base hidden font-thin pb-8 md:block">
             Shop Online. Pickup Today. It's Fast, Simple and Easy. Learn More.
           </p>
           <p className="text-5xl font-semibold tracking-wide">
             Fast, Simple and Easy
           </p>
-          <div className="mt-8 w-[50%] h-[60px] flex bg-white items-center rounded-lg text-black dark:text-white dark:bg-black">
+          <div className="mt-8 w-[50%] h-[60px] hidden md:block flex bg-white items-center rounded-lg text-black dark:text-white dark:bg-black">
             <FilterSearch />
           </div>
         </div>

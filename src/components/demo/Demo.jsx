@@ -3,8 +3,8 @@ import demoPic from "../../assets/demo.jpg";
 function Demo() {
   return (
     <div className="container mx-auto py-14 md:py-28">
-      <div className="flex flex-col lg:flex-row justify-between">
-        <div className="w-full lg:w-[600px] h-[600px] rounded-xl overflow-hidden ">
+      <div className="flex flex-col lg:flex-row justify-between gap-6 md:gap-0">
+        <div className="w-full lg:w-[600px] md:h-[600px] h-[400px] rounded-xl overflow-hidden ">
           <img src={demoPic} alt="" className="w-full h-full" />
         </div>
         <div className="w-full lg:w-[50%] flex flex-col items-start justify-center gap-6">
