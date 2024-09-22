@@ -1,14 +1,10 @@
 import FilterSearch from "../utils/FilterSearch";
-
+import herobg from "../assets/background.jpg";
 function Hero() {
   return (
     <section className="w-screen h-screen overflow-hidden relative z-0">
       <div className="w-full h-full absolute top-0 left-0">
-        <img
-          src="../src/assets/background.jpg"
-          alt=""
-          className="w-full h-full"
-        />
+        <img src={herobg} alt="" className="w-full h-full" />
       </div>
       <div className="container w-full h-full relative z-10 flex flex-col justify-center">
         <div className="text-white">
