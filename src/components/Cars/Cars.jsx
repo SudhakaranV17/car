@@ -8,6 +8,7 @@ function Cars() {
   const { value, status, error } = useSelector((state) => state.carDetails);
   useEffect(() => {
     dispatch(fetchDetails());
+    console.log(typeof value);
   }, [dispatch]);
 
   if (status === "loading") {
